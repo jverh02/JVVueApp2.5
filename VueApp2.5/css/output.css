@@ -1,0 +1,21 @@
+body {
+  font: 100% "Trebuchet MS", Helvetica, sans-serif;
+  background-color: #C2E1FF;
+  background-size: cover;
+}
+
+.navbar, .navbar-brand, .navbar-toggler {
+  background: #0052A3;
+  color: white;
+}
+
+.badge {
+  font: 100% Helvetica, sans-serif;
+  background-color: #0052A3;
+}
+
+.details, .edit {
+  background: #B8D0EB;
+}
+
+/*# sourceMappingURL=output.css.map */

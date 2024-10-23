@@ -1,0 +1,22 @@
+$primary-color:#0052A3;
+$secondary-color:#B8D0EB;
+//$tab-color:#A4D0A8;
+$background: #C2E1FF;
+$font-stack: "Trebuchet MS", Helvetica, sans-serif;
+body {
+  font: 100% $font-stack;
+  background-color: $background;
+  background-size: cover;
+}
+.navbar, .navbar-brand, .navbar-toggler {
+  background: $primary-color;
+  color:white;
+}
+
+.badge {
+  font: 100% Helvetica, sans-serif;
+  background-color:$primary-color;
+}
+.details, .edit {
+  background: $secondary-color;
+}
